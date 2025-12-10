@@ -102,20 +102,14 @@ Worked on full ML workflows using Python, NumPy, Pandas, Matplotlib, Scikit-lear
 
 ## 📊 GitHub Stats
 
-<!-- GitHub readme-stats -->
 <p align="center">
-  <!-- General stats -->
-  <img alt="Yuvraj's GitHub stats"
-       src="https://github-readme-stats.vercel.app/api?username=Yuvrajsingh889&show_icons=true&theme=tokyonight" />
-  <!-- Top languages -->
-  <img alt="Yuvraj's Top Languages"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajsingh889&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Yuvrajsingh889&show_icons=true&theme=tokyonight" alt="Yuvraj's GitHub stats" />
+  
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Yuvrajsingh889&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<!-- Streak -->
 <p align="center">
-  <img alt="GitHub Streak"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvrajsingh889&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Yuvrajsingh889&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 
