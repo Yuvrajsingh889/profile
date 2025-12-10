@@ -100,18 +100,24 @@ Worked on full ML workflows using Python, NumPy, Pandas, Matplotlib, Scikit-lear
 
 ---
 
-## 📊 *GitHub Stats*
+## 📊 GitHub Stats
 
-<!-- Updated according to your GitHub username "Yuvrajsingh889" -->
-
+<!-- GitHub readme-stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yuvrajsingh889&show_icons=true&theme=tokyonight" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajsingh889&layout=compact&theme=tokyonight" height="170">
+  <!-- General stats -->
+  <img alt="Yuvraj's GitHub stats"
+       src="https://github-readme-stats.vercel.app/api?username=Yuvrajsingh889&show_icons=true&theme=tokyonight" />
+  <!-- Top languages -->
+  <img alt="Yuvraj's Top Languages"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvrajsingh889&layout=compact&theme=tokyonight" />
 </p>
 
+<!-- Streak -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvrajsingh889&theme=tokyonight" height="180">
+  <img alt="GitHub Streak"
+       src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvrajsingh889&theme=tokyonight" />
 </p>
+
 
 ---
 
