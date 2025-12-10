@@ -1,11 +1,16 @@
-# profile
-<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Yuvraj singh</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#58a6ff;">Yuvraj Singh</span></h1>
 <h3 align="center">AI & ML Enthusiast | CSE Undergraduate | Developer</h3>
 
 <p align="center">
-  <a href="mailto:syuvraj889@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="www.linkedin.com/in/yuvraj-singh-850685294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/Yuvrajsingh889"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="mailto:syuvraj889@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/yuvraj-singh-850685294/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/Yuvrajsingh889">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
 </p>
 
 ---
@@ -16,11 +21,11 @@
 
 ---
 
-## 👨‍💻 *About Me*
+## 👨‍💻 <em>About Me</em>
 
-I'm a *Computer Science & Engineering (AI/ML specialization)* student passionate about building *intelligent systems*, solving problems, and creating interactive tech.
+I'm a <strong>Computer Science & Engineering (AI/ML specialization)</strong> student passionate about building <strong>intelligent systems</strong>, solving problems, and creating interactive tech.
 
-✨ I love:  
+✨ I love:
 - 🤖 Machine Learning & Predictive Models  
 - 🎮 Reinforcement Learning (Game AI)  
 - 🧠 Neural Networks & Deep Learning  
@@ -29,22 +34,22 @@ I'm a *Computer Science & Engineering (AI/ML specialization)* student passionate
 
 ---
 
-## 🚀 *Current Focus*
+## 🚀 <em>Current Focus</em>
 
-- ⭐ Specializing in *AI & Machine Learning*  
+- ⭐ Specializing in <strong>AI & Machine Learning</strong>  
 - 📘 Learning ML pipelines, optimization & model engineering  
 - 🎯 Goal → Build meaningful AI-driven applications  
 
 ---
 
-## 🛠️ *Tech Stack*
+## 🛠️ <em>Tech Stack</em>
 
-### *Languages*
+### <strong>Languages</strong>
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,c,cpp,html,css" />
 </p>
 
-### *AI / ML Tools*
+### <strong>AI / ML Tools</strong>
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
@@ -52,40 +57,40 @@ I'm a *Computer Science & Engineering (AI/ML specialization)* student passionate
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
 </p>
 
-### *Developer Tools*
+### <strong>Developer Tools</strong>
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
 </p>
 
 ---
 
-## 🔬 *AI & ML Projects*
+## 🔬 <em>AI & ML Projects</em>
 
-### 🎮 *Battle-with-AI (Reinforcement Learning Game AI)*
-A custom game built using *Reinforcement Learning* to simulate intelligent decision-making.
+### 🎮 <strong>Battle-with-AI (Reinforcement Learning Game AI)</strong>
+A custom game built using <strong>Reinforcement Learning</strong> to simulate intelligent decision-making.
 
 ✔ RL-based reward system  
 ✔ Django-powered interactive UI  
 ✔ Great for educational RL understanding  
 
-*Tech:* Python, RL, Django, HTML/CSS  
+<strong>Tech:</strong> Python, RL, Django, HTML/CSS  
 
 ---
 
-## 🌐 *Web Development Projects*
+## 🌐 <em>Web Development Projects</em>
 
-### 🏛️ *Event – Virtual Event Hosting Platform*
+### 🏛️ <strong>Event – Virtual Event Hosting Platform</strong>
 A smooth, responsive event-browsing & booking web app.
 
 ✔ Interactive UI  
 ✔ Easy navigation  
 ✔ Dynamic elements  
 
-*Tech:* HTML, CSS, JavaScript  
+<strong>Tech:</strong> HTML, CSS, JavaScript  
 
 ---
 
-## 📜 *Certifications*
+## 📜 <em>Certifications</em>
 
 - 🏅 Data Collection — Kaggle (2025)  
 - 🐍 Python — Coursera (2024)  
@@ -94,15 +99,15 @@ A smooth, responsive event-browsing & booking web app.
 
 ---
 
-## 🎓 *Education*
+## 🎓 <em>Education</em>
 
-*Lovely Professional University*  
-*B.Tech — CSE (AI & Machine Learning)*  
-🎯 CGPA: *7.10*
+<strong>Lovely Professional University</strong>  
+<strong>B.Tech — CSE (AI & Machine Learning)</strong>  
+🎯 CGPA: <strong>7.10</strong>
 
 ---
 
-## 📊 *GitHub Stats*
+## 📊 <em>GitHub Stats</em>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj889&show_icons=true&theme=tokyonight" height="170">
@@ -115,21 +120,21 @@ A smooth, responsive event-browsing & booking web app.
 
 ---
 
-## 🤝 *Connect With Me*
+## 🤝 <em>Connect With Me</em>
 
-- 📧 Email: *syuvraj889@gmail.com*  
-- 🔗 LinkedIn: **linkedin.com/in/yuvraj-singh-850685294**  
-- 🧑‍💻 GitHub: **https://github.com/Yuvrajsingh889**
+- 📧 Email: <strong>syuvraj889@gmail.com</strong>  
+- 🔗 LinkedIn: **https://www.linkedin.com/in/yuvraj-singh-850685294/**  
+- 🧑‍💻 GitHub: **https://github.com/Yuvrajsingh889**  
 
 ---
 
-## ⭐ *Vision*
+## ⭐ <em>Vision</em>
 
-I aim to become a skilled *AI/ML Engineer*, building impactful AI systems that solve real-world challenges.  
-I love experimenting, learning, and pushing boundaries in tech.
+I aim to become a skilled <strong>AI/ML Engineer</strong>, building impactful AI systems that solve real-world challenges.  
+I love experimenting, learning, and pushing boundaries in tech.  
 
 ---
 
 <p align="center">
-  ⭐ If you like my work, consider *starring my repositories*!
+  ⭐ If you like my work, consider <strong>starring my repositories</strong>!
 </p>
